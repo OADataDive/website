@@ -1,4 +1,4 @@
-# Oltiana Asllani — Personal Homepage
+# Website
 
 Static HTML/CSS portfolio with Home, Certifications, Publications, and Projects pages.
 
